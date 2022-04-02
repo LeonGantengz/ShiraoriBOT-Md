@@ -1,6 +1,6 @@
 let fs = require('fs')
 
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['6285608625102'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -19,20 +19,20 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'apivproject',
   'https://melcanz.com': 'elaina',
-  'https://api.lolhuman.xyz': 'pkebgk8248jskrkfm',
+  'https://api.lolhuman.xyz': 'ijjhzcutdp@alilot.com',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
+  'https://leyscoders-api.herokuapp.com': 'IkyOgiwara'
 }
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
-global.email = 'wakabahiiro5@gmail.com'
+global.packname = 'Yui-Chan'
+global.author = 'LeonGanz'
+global.email = 'leonganz.kry@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
+global.wm = '©Yui-Chan By Rama'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
