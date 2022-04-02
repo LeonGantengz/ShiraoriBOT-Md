@@ -14,17 +14,12 @@ let handler = async (m) => {
     let user = global.db.data.users[who]
 let tqto = `
 *BIG THANKS TO*
-
-Nurutomo: 
-https://github.com/Nurutomo
-Istikmal: 
-https://github.com/BochilGaming
-Ariffb: 
-https://github.com/Ariffb25
-Ilman: 
-https://github.com/ilmanhdyt
-Amirul: 
-https://github.com/amiruldev20
+Allah SWT
+My Parents
+Ferdiz-AFK
+Nurutomo
+Rama Agung
+Putri.Azizah
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -36,7 +31,7 @@ https://github.com/amiruldev20
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               url: 'https://youtube.com/c/LeonGanz'
              }
 
            },
